@@ -1,2 +1,2 @@
 # Mine-Sweeper
-A scuffed highschool project
+A scuffed highschool project using NetBeans, very inefficient
